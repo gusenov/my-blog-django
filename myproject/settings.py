@@ -25,7 +25,7 @@ SECRET_KEY = 'bbg8tjpi-ckxf$-nzw($*e8dn(80e%yduxv_q7izvs0-f-b@qp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'gusenov.pythonanywhere.com']
 
 
 # Application definition
